@@ -4,3 +4,9 @@ div{
     background: tomato;
     border-radius: 0px 20px 0px;
 }
+footer{
+    background-color: rgb(63, 60, 60);
+    height: 250px;
+    text-align: center;
+
+}
